@@ -1,0 +1,1 @@
+In this folder I include some practices I did regarding concurrency in systems.
