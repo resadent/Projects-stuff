@@ -1,0 +1,1 @@
+This folder has inside of it a project which consists of an algorithm that computes the taylor series of the sine function. The p versions use thread level paralellism to improve throughput, and the v versions use vectorization. There is a pv version that uses both techniques as well to improve performance further.
