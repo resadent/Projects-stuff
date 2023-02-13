@@ -1,1 +1,1 @@
-This is a little project I did as a student that given an Algoritmo.class input file, runs the algorithm within that class and tries to infer its time complexity.
+This is a little project I did as a student that given an Algoritmo.class input file, runs the algorithm within that class and tries to infer its time complexity comparing it to a given set of algorithms whose complexity I already know.
