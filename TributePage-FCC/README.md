@@ -1,0 +1,1 @@
+This is a tribute page project that I made during my FCC HTML/CSS course. I chose to talk about Fernando Alonso. I used some div elements to make a structure for the page, some text elements, an image, a link... and I also modified the presentation: inserted borders, modified the presentation of the elements and so on.
