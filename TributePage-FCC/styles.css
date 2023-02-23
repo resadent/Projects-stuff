@@ -1,0 +1,41 @@
+
+#img-div {
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: rgb(150,100,0);
+  margin: 20px auto 20px auto;
+  border: 0.1em solid black;
+}
+
+img {
+  margin: 5px 0 5px 0;
+  padding: 10px 0;
+  max-width: 100%;
+  height: auto;
+}
+
+#img-caption {
+  min-width: 100%;
+  text-align: center;
+  color: rgb(0,200,200);
+}
+
+a:hover {
+  cursor: pointer;
+  color: rgb(255,0,0);
+}
+
+ul > li > p {
+  color: rgb(5,100,5);
+  text-align: center;
+}
+
+#title {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #00000050;
+}
